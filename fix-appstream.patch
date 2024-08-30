@@ -1,0 +1,11 @@
+diff -ruN a/deploy/page.codeberg.JakobDev.jdDiff.metainfo.xml b/deploy/page.codeberg.JakobDev.jdDiff.metainfo.xml
+--- a/deploy/page.codeberg.JakobDev.jdDiff.metainfo.xml	2023-05-08 10:28:21.000000000 +0200
++++ b/deploy/page.codeberg.JakobDev.jdDiff.metainfo.xml	2024-08-30 12:22:53.578385238 +0200
+@@ -67,7 +67,6 @@
+   <recommends>
+     <control>pointing</control>
+     <control>keyboard</control>
+-    <display_length compare="ge">medium</display_length>
+   </recommends>
+   <content_rating type="oars-1.1"/>
+   <provides>
